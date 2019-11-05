@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="repast-admin" />
+        <module name="repast-app" />
+        <module name="repast-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="repast" target="1.8" />
+      <module name="repast-admin" target="1.8" />
+      <module name="repast-app" target="1.8" />
+      <module name="repast-common" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

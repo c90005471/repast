@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/repast.iml" filepath="$PROJECT_DIR$/repast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repast-admin/repast-admin.iml" filepath="$PROJECT_DIR$/repast-admin/repast-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repast-app/repast-app.iml" filepath="$PROJECT_DIR$/repast-app/repast-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repast-common/repast-common.iml" filepath="$PROJECT_DIR$/repast-common/repast-common.iml" />
+    </modules>
+  </component>
+</project>

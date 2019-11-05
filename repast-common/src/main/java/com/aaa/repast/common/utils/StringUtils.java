@@ -1,7 +1,7 @@
 package com.aaa.repast.common.utils;
 
 import com.aaa.repast.common.support.StrFormatter;
-import org.apache.commons.lang.text.StrBuilder;
+import org.apache.commons.lang3.text.StrBuilder;
 
 import java.util.Collection;
 import java.util.Map;
