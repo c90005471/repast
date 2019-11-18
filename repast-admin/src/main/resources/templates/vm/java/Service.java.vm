@@ -1,9 +1,7 @@
-package
+package ${package}.service;
 
+import ${package}.domain.${className};
 import java.util.List;
-
-${package}.service;
-    ${package}.domain.${className};
 
 /**
  * ${tableComment} 服务层
